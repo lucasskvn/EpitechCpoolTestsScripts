@@ -1,0 +1,1 @@
+ls --file-type -p -B -I"#*" -m
